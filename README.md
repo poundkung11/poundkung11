@@ -1,13 +1,12 @@
-[README (1).md](https://github.com/user-attachments/files/27558444/README.1.md)
 <div align="center">
 
 ```
- ██████╗  ██████╗ ██╗   ██╗███╗   ██╗██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗ ██████╗  ██╗ ██╗
- ██╔══██╗██╔═══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝██║   ██║████╗  ██║██╔════╝ ███║███║
- ██████╔╝██║   ██║██║   ██║██╔██╗ ██║██║  ██║█████╔╝ ██║   ██║██╔██╗ ██║██║  ███╗╚██║╚██║
- ██╔═══╝ ██║   ██║██║   ██║██║╚██╗██║██║  ██║██╔═██╗ ██║   ██║██║╚██╗██║██║   ██║ ██║ ██║
- ██║     ╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝██║  ██╗╚██████╔╝██║ ╚████║╚██████╔╝ ██║ ██║
- ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═╝ ╚═╝
+ ██████╗  ██████╗ ██╗   ██╗███╗   ██╗██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗ ██████╗
+ ██╔══██╗██╔═══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝██║   ██║████╗  ██║██╔════╝
+ ██████╔╝██║   ██║██║   ██║██╔██╗ ██║██║  ██║█████╔╝ ██║   ██║██╔██╗ ██║██║  ███╗
+ ██╔═══╝ ██║   ██║██║   ██║██║╚██╗██║██║  ██║██╔═██╗ ██║   ██║██║╚██╗██║██║   ██║
+ ██║     ╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝██║  ██╗╚██████╔╝██║ ╚████║╚██████╔╝
+ ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  
 ```
 
 ### Hi there, I'm **Latthaphon Sattha** 👋 — `@poundkung11`
@@ -55,15 +54,27 @@ fun_fact: "I built a system that recognizes faces in classrooms 👁️"
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & AI/Vision**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🔌 Embedded, Low-level & Tools**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI/Vision & Tools**
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -93,6 +104,28 @@ fun_fact: "I built a system that recognizes faces in classrooms 👁️"
 | [**sabaidimai-fixed**](https://github.com/poundkung11/sabaidimai-fixed) | Web app with modern TypeScript architecture | TypeScript |
 | [**SmartVision-Classroom**](https://github.com/poundkung11/SmartVision-Classroom) | Smart classroom system using computer vision | Python, OpenCV |
 | [**CFRS**](https://github.com/poundkung11/CFRS) | Classroom Facial Recognition Service | Python, ML |
+
+---
+🎓 โปรเจกต์มหาวิทยาลัย / วิศวกรรม (Engineering & Academic)
+🏎️ รถตามเส้น (Line Tracking Robot)
+🏥 แอปโรงพยาบาลที่มี AI เป็นผู้ช่วย
+⚡ Smart Plug & PCB Design
+🏫 Web Clone MFU
+🧠 แนวทางการทำงาน (Work Philosophy)
+ผมชอบพัฒนาระบบแบบ ค่อยๆ วางโครง > สร้างของให้รันได้จริง > แล้วค่อยปรับให้ดีขึ้นทีละส่วน ให้ความสำคัญกับการเชื่อมต่อระบบ (Integration), การนำไปใช้งานจริง (Practicality), ความเสถียร (Stability) และการแก้ปัญหาเฉพาะหน้า (Problem Solving)
+
+🚀 เป้าหมาย (Goals)
+กำลังพัฒนาตัวเองไปสู่การเป็น Software Engineer / Full-Stack Developer / Embedded & IoT Developer พร้อมเปิดรับเครื่องมือใหม่ๆ และมองหาโอกาสทำงานที่ได้ใช้ทั้ง "การคิดเชิงระบบ" และ "การลงมือทำจริง"
+
+## 📬 ช่องทางการติดต่อ
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-poundkung6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poundkung6@gmail.com)
+[![LINE](https://img.shields.io/badge/LINE-poundkung11-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/poundkung11)
+[![GitHub](https://img.shields.io/badge/GitHub-poundkung11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poundkung11)
+
+</div>
 
 ---
 
