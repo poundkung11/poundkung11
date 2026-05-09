@@ -20,6 +20,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
+💡 ผมชอบสร้างโปรเจกต์ Prototype ต่างๆเวลาว่างคิดอะไรแปลกๆแล้วลองทำถ้าคิดว่าอันไหนพอไปต่อได้จะนำไปทำต่อให้ใช้งานได้จริงได้
+🔧 สนใจด้าน Full-Stack, Embedded, IoT และ Automation โดยเฉพาะระบบที่เชื่อม Hardware กับ Software เข้าด้วยกัน
+⚡ มีความสนใจด้าน Real-time Systems, MQTT, API Integration และ AI-assisted Development
+🤖 ชอบใช้ AI และ Automation เพื่อช่วยออกแบบระบบ เร่งการพัฒนา และเพิ่มประสิทธิภาพการทำงาน
+🚀 พร้อมเรียนรู้เทคโนโลยีใหม่และพัฒนาทักษะด้าน Software Engineering และ System Integration อย่างต่อเนื่อง
 name:     "Latthaphon Sattha"
 username: "poundkung11"
 location: "Thailand 🇹🇭"
