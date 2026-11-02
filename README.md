@@ -1,134 +1,93 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:3FB950&height=220&section=header&text=Latthaphon%20Sattha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IoT%20%7C%20Network%20%7C%20Embedded%20%7C%20Full%20Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:0F766E,100:2563EB&height=230&section=header&text=LATTHAPHON%20SATTHA&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=ENGINEERING%20AT%20THE%20EDGE%20OF%20HARDWARE%20%26%20SOFTWARE&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Latthaphon Sattha — Engineering at the edge of hardware and software" />
 
-<a href="https://poundkung11.github.io/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=40&lines=Computer+Engineering+Student+%7C+Sripatum+University;Where+Hardware+meets+Software+%E2%9A%99%EF%B8%8F;Seeking+Co-op+2026+%E2%80%94+IoT+%2F+Network+%2F+R%26D+%F0%9F%9A%80;ESP32+%2B+MQTT+%2B+Python+%2B+Networking" alt="Typing SVG"/>
-</a>
+### I connect devices, networks, and software into systems people can use.
 
-<br/>
+นักศึกษาวิศวกรรมคอมพิวเตอร์ชั้นปีที่ 4 มหาวิทยาลัยศรีปทุม · CGPA 3.40 · คาดว่าจะจบปี 2027
 
-![Status](https://img.shields.io/badge/Open_to-Co--op_/_Internship-3FB950?style=for-the-badge)
-![Location](https://img.shields.io/badge/Bangkok-Thailand_🇹🇭-1F6FEB?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-poundkung11.github.io-F0883E?style=for-the-badge&logo=githubpages&logoColor=white)
+[![Focus](https://img.shields.io/badge/FOCUS-IoT%20%2F%20Network%20%2F%20Embedded-0F766E?style=flat-square)](https://poundkung11.github.io/)
+[![Location](https://img.shields.io/badge/BASED%20IN-Bangkok%2C%20Thailand-1D4ED8?style=flat-square)](https://poundkung11.github.io/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-F97316?style=flat-square)](https://poundkung11.github.io/)
 
 </div>
 
-<br/>
+---
 
-## 👋 About Me
+## FIELD MAP
 
-นักศึกษาวิศวกรรมคอมพิวเตอร์ชั้นปีที่ 4 (CGPA 3.40) มหาวิทยาลัยศรีปทุม
-มีประสบการณ์ด้าน **การตั้งค่าและแก้ปัญหาเครือข่าย** และโปรเจกต์ **IoT** ด้วย ESP32, Raspberry Pi, MQTT, PHP และ MySQL
-ชอบสร้าง Prototype เวลาว่างคิดอะไรแปลกๆ แล้วลองทำ ถ้าอันไหนไปต่อได้ก็พัฒนาให้ใช้งานได้จริง
-
-```ts
-const poundkung11 = {
-  name: "Latthaphon Sattha",
-  studying: "B.Eng. Computer Engineering @ Sripatum University (2027)",
-  lookingFor: ["IoT Engineer", "Network Engineer", "IoT R&D Engineer"],
-  focus: ["Device Integration", "Prototyping", "System Testing", "Troubleshooting"],
-  funFact: "I built a system that recognizes faces in classrooms 👁️",
-};
+```mermaid
+flowchart LR
+    A["01 · DEVICE<br/>ESP32 · Sensors · Raspberry Pi"] --> B["02 · CONNECTIVITY<br/>MQTT · TCP/IP · VLAN"] --> C["03 · APPLICATION<br/>APIs · Web · Monitoring"] --> D["04 · VALIDATION<br/>Testing · Troubleshooting · Docs"]
+    classDef node fill:#0B1020,stroke:#14B8A6,color:#F8FAFC,stroke-width:1.5px;
+    class A,B,C,D node;
 ```
 
-<br/>
+ชอบทำงานที่เชื่อมหลายชั้นเข้าด้วยกัน ตั้งแต่ต่ออุปกรณ์และวางระบบเครือข่าย ไปจนถึงทำ backend, dashboard และทดสอบหน้างาน สนุกกับการขึ้น Prototype แล้วค่อยปรับให้เสถียรและใช้งานได้จริง
 
-## 💼 Experience
-
-| Role | Where | When |
-|:--|:--|:-:|
-| **Network & IoT Technician** | sbuyhome | 2026 |
-| **Technician Intern** | Advice | 2023 |
-
-- ตั้งค่า Router, Switch, Wireless AP, VPN remote access และ IP addressing
-- ติดตั้งและดูแลระบบ CCTV, Network และ Smart Home
-- ทดสอบ Smart Switch ก่อนนำไปใช้งานจริง และเขียนเอกสารคู่มือการติดตั้ง
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,php&perline=7" alt="languages"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,flask,fastapi,apache&perline=7" alt="web"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,opencv,numpy,pandas&perline=6" alt="data"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,git,github,vscode&perline=6" alt="hardware-tools"/>
-
-</div>
-
-| Area | Skills |
-|:--|:--|
-| 🔌 **IoT & Embedded** | ESP32 · Raspberry Pi · MQTT (Mosquitto) · PCB Design · Embedded Programming |
-| 🌐 **Networking** | OSI / TCP-IP · IPv4 · Subnetting · VLAN · DHCP · DNS · NAT · Routing & Switching · VPN |
-| 💻 **Programming** | Python · C · C++ · Java (Basic) · TypeScript · JavaScript |
-| 🗄️ **Web & Database** | PHP · MySQL · MongoDB · HTML/CSS · Apache · React · Next.js |
-| 👁️ **AI / Data** | Machine Learning · Computer Vision · OpenCV · NumPy · Pandas |
-
-<br/>
-
-## 🚀 Projects
+## SELECTED BUILDS
 
 <div align="center">
 
 <a href="https://github.com/poundkung11/SmartVision-Classroom">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=poundkung11&repo=SmartVision-Classroom&theme=tokyonight&hide_border=true" alt="SmartVision-Classroom"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=poundkung11&repo=SmartVision-Classroom&theme=transparent&hide_border=true&title_color=14B8A6&text_color=C9D1D9&icon_color=60A5FA" alt="SmartVision Classroom repository card" />
 </a>
 <a href="https://github.com/poundkung11/CFRS">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=poundkung11&repo=CFRS&theme=tokyonight&hide_border=true" alt="CFRS"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=poundkung11&repo=CFRS&theme=transparent&hide_border=true&title_color=14B8A6&text_color=C9D1D9&icon_color=60A5FA" alt="CFRS repository card" />
 </a>
 
 </div>
 
-| Year | Project | Highlights |
-|:-:|:--|:--|
-| 2026 | **AIoT Smart Room System** | MQTT real-time monitoring และ energy automation, system design + documentation |
-| 2026 | **Smart Classroom Attendance** | Face recognition + behavior analysis, RTSP streaming, backend APIs, real-time dashboard |
-| 2025 | **IoT Web Service** | Raspberry Pi + MQTT + PHP + MySQL สำหรับส่งข้อมูลและ monitor แบบ real-time |
-| 2025 | **EGMS** (Equipment & Grouping Mgmt) | Full-stack PHP/MySQL, ทำ UAT และ regression testing |
-| 2024 | **IoT Smart Farm** | ระบบรดน้ำอัตโนมัติ ด้วย custom PCB + ESP32 และ soil sensors |
+| YEAR | PROJECT | WHAT IT DOES |
+|:--:|:--|:--|
+| 2026 | **Smart Classroom Attendance** | Face recognition และ behavior analysis ผ่าน RTSP พร้อม backend APIs และ real-time dashboard |
+| 2026 | **AIoT Smart Room System** | ตรวจวัดข้อมูลผ่าน MQTT แบบ real-time และทำ energy automation พร้อมออกแบบระบบและจัดทำเอกสาร |
+| 2025 | **IoT Web Service** | Raspberry Pi, MQTT, PHP และ MySQL สำหรับรับส่งและ monitor ข้อมูลแบบ real-time |
+| 2025 | **EGMS** · Equipment & Grouping Management | พัฒนา Full-stack ด้วย PHP/MySQL พร้อมทำ UAT และ regression testing |
+| 2024 | **IoT Smart Farm** | ระบบรดน้ำอัตโนมัติจาก custom PCB, ESP32 และ soil sensors |
 
-<br/>
+## EXPERIENCE
 
-## 🧠 Work Philosophy
+### Network & IoT Technician · sbuyhome
+`2026`
 
-```mermaid
-flowchart LR
-    A["🧱 วางโครง"] --> B["▶️ ทำให้รันได้จริง"] --> C["✨ ปรับให้ดีขึ้นทีละส่วน"]
-    style A fill:#0D1117,stroke:#1F6FEB,color:#fff
-    style B fill:#0D1117,stroke:#3FB950,color:#fff
-    style C fill:#0D1117,stroke:#F0883E,color:#fff
-```
+- ตั้งค่า Router, Switch, Wireless AP, VPN remote access และ IP addressing
+- ติดตั้งและดูแลระบบ CCTV, Network และ Smart Home
+- ทดสอบ Smart Switch ก่อนใช้งานจริง พร้อมจัดทำคู่มือติดตั้ง
 
-เน้น **Integration** · **Practicality** · **Stability** · **Problem Solving**
+### Technician Intern · Advice
+`2023`
 
-<br/>
+## TOOLKIT
 
-## 📊 GitHub Stats
+| LAYER | TOOLS & SKILLS |
+|:--|:--|
+| **Embedded & IoT** | ESP32 · Raspberry Pi · Arduino · MQTT / Mosquitto · PCB design |
+| **Networks** | TCP/IP · IPv4 · Subnetting · VLAN · DHCP · DNS · NAT · Routing & Switching · VPN |
+| **Languages** | Python · C · C++ · TypeScript · JavaScript · PHP · Java (basic) |
+| **Web & Data** | React · Next.js · Node.js · Flask · FastAPI · MySQL · MongoDB · SQLite · Apache |
+| **Vision & Analysis** | OpenCV · Machine Learning · NumPy · Pandas |
+| **Tools** | Linux · Git · GitHub · VS Code |
+
+## WORK LOOP
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=poundkung11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poundkung11&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+`OBSERVE`　→　`PROTOTYPE`　→　`TEST`　→　`REFINE`
+
+**Integration · Practicality · Stability · Problem solving**
 
 </div>
 
-<br/>
-
-## 📬 Contact
+## FIND ME
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-latthaphon.sat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latthaphon.sat@gmail.com)
-[![LINE](https://img.shields.io/badge/LINE-poundkung11-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/poundkung11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-latthaphon--sattha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latthaphon-sattha-38290a2b1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0883E?style=for-the-badge&logo=githubpages&logoColor=white)](https://poundkung11.github.io/)
+[![Email](https://img.shields.io/badge/EMAIL-Say%20hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:latthaphon.sat@gmail.com)
+[![LINE](https://img.shields.io/badge/LINE-Connect-06C755?style=flat-square&logo=line&logoColor=white)](https://line.me/ti/p/poundkung11)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-View%20profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latthaphon-sattha-38290a2b1)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-F97316?style=flat-square&logo=githubpages&logoColor=white)](https://poundkung11.github.io/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:0F766E,100:0B1020&height=100&section=footer" width="100%" alt="" />
 
 </div>
