@@ -1,151 +1,134 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-```
- ██████╗  ██████╗ ██╗   ██╗███╗   ██╗██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗ ██████╗
- ██╔══██╗██╔═══██╗██║   ██║████╗  ██║██╔══██╗██║ ██╔╝██║   ██║████╗  ██║██╔════╝
- ██████╔╝██║   ██║██║   ██║██╔██╗ ██║██║  ██║█████╔╝ ██║   ██║██╔██╗ ██║██║  ███╗
- ██╔═══╝ ██║   ██║██║   ██║██║╚██╗██║██║  ██║██╔═██╗ ██║   ██║██║╚██╗██║██║   ██║
- ██║     ╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝██║  ██╗╚██████╔╝██║ ╚████║╚██████╔╝
- ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:3FB950&height=220&section=header&text=Latthaphon%20Sattha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IoT%20%7C%20Network%20%7C%20Embedded%20%7C%20Full%20Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
-### Hi there, I'm **Latthaphon Sattha** 👋 — `@poundkung11`
+<a href="https://poundkung11.github.io/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=40&lines=Computer+Engineering+Student+%7C+Sripatum+University;Where+Hardware+meets+Software+%E2%9A%99%EF%B8%8F;Seeking+Co-op+2026+%E2%80%94+IoT+%2F+Network+%2F+R%26D+%F0%9F%9A%80;ESP32+%2B+MQTT+%2B+Python+%2B+Networking" alt="Typing SVG"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Vision+Explorer+%F0%9F%91%81%EF%B8%8F;TypeScript+%2B+Python+Enthusiast;Building+Smart+Classrooms+%F0%9F%8F%AB)](https://git.io/typing-svg)
+<br/>
+
+![Status](https://img.shields.io/badge/Open_to-Co--op_/_Internship-3FB950?style=for-the-badge)
+![Location](https://img.shields.io/badge/Bangkok-Thailand_🇹🇭-1F6FEB?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-poundkung11.github.io-F0883E?style=for-the-badge&logo=githubpages&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-```yaml
-💡 ผมชอบสร้างโปรเจกต์ Prototype ต่างๆเวลาว่างคิดอะไรแปลกๆแล้วลองทำถ้าคิดว่าอันไหนพอไปต่อได้จะนำไปทำต่อให้ใช้งานได้จริงได้
-🔧 สนใจด้าน Full-Stack, Embedded, IoT และ Automation โดยเฉพาะระบบที่เชื่อม Hardware กับ Software เข้าด้วยกัน
-⚡ มีความสนใจด้าน Real-time Systems, MQTT, API Integration และ AI-assisted Development
-🤖 ชอบใช้ AI และ Automation เพื่อช่วยออกแบบระบบ เร่งการพัฒนา และเพิ่มประสิทธิภาพการทำงาน
-🚀 พร้อมเรียนรู้เทคโนโลยีใหม่และพัฒนาทักษะด้าน Software Engineering และ System Integration อย่างต่อเนื่อง
-name:     "Latthaphon Sattha"
-username: "poundkung11"
-location: "Thailand 🇹🇭"
-role:     "Full Stack Developer"
+นักศึกษาวิศวกรรมคอมพิวเตอร์ชั้นปีที่ 4 (CGPA 3.40) มหาวิทยาลัยศรีปทุม
+มีประสบการณ์ด้าน **การตั้งค่าและแก้ปัญหาเครือข่าย** และโปรเจกต์ **IoT** ด้วย ESP32, Raspberry Pi, MQTT, PHP และ MySQL
+ชอบสร้าง Prototype เวลาว่างคิดอะไรแปลกๆ แล้วลองทำ ถ้าอันไหนไปต่อได้ก็พัฒนาให้ใช้งานได้จริง
 
-stack:
-  frontend:  ["TypeScript", "React", "Next.js"]
-  backend:   ["Node.js", "Python", "REST APIs"]
-  vision:    ["OpenCV", "Face Recognition", "ML"]
-
-interests:
-  - "Building smart systems for real classrooms"
-  - "Computer Vision & AI applications"
-  - "Clean, maintainable code"
-
-fun_fact: "I built a system that recognizes faces in classrooms 👁️"
+```ts
+const poundkung11 = {
+  name: "Latthaphon Sattha",
+  studying: "B.Eng. Computer Engineering @ Sripatum University (2027)",
+  lookingFor: ["IoT Engineer", "Network Engineer", "IoT R&D Engineer"],
+  focus: ["Device Integration", "Prototyping", "System Testing", "Troubleshooting"],
+  funFact: "I built a system that recognizes faces in classrooms 👁️",
+};
 ```
 
----
+<br/>
+
+## 💼 Experience
+
+| Role | Where | When |
+|:--|:--|:-:|
+| **Network & IoT Technician** | sbuyhome | 2026 |
+| **Technician Intern** | Advice | 2023 |
+
+- ตั้งค่า Router, Switch, Wireless AP, VPN remote access และ IP addressing
+- ติดตั้งและดูแลระบบ CCTV, Network และ Smart Home
+- ทดสอบ Smart Switch ก่อนนำไปใช้งานจริง และเขียนเอกสารคู่มือการติดตั้ง
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,php&perline=7" alt="languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,flask,fastapi,apache&perline=7" alt="web"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,opencv,numpy,pandas&perline=6" alt="data"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,git,github,vscode&perline=6" alt="hardware-tools"/>
 
-**Frontend**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| Area | Skills |
+|:--|:--|
+| 🔌 **IoT & Embedded** | ESP32 · Raspberry Pi · MQTT (Mosquitto) · PCB Design · Embedded Programming |
+| 🌐 **Networking** | OSI / TCP-IP · IPv4 · Subnetting · VLAN · DHCP · DNS · NAT · Routing & Switching · VPN |
+| 💻 **Programming** | Python · C · C++ · Java (Basic) · TypeScript · JavaScript |
+| 🗄️ **Web & Database** | PHP · MySQL · MongoDB · HTML/CSS · Apache · React · Next.js |
+| 👁️ **AI / Data** | Machine Learning · Computer Vision · OpenCV · NumPy · Pandas |
 
-**Backend & Database**
+<br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🚀 Projects
 
-**🔌 Embedded, Low-level & Tools**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://github.com/poundkung11/SmartVision-Classroom">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=poundkung11&repo=SmartVision-Classroom&theme=tokyonight&hide_border=true" alt="SmartVision-Classroom"/>
+</a>
+<a href="https://github.com/poundkung11/CFRS">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=poundkung11&repo=CFRS&theme=tokyonight&hide_border=true" alt="CFRS"/>
+</a>
 
-**AI/Vision & Tools**
+</div>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+| Year | Project | Highlights |
+|:-:|:--|:--|
+| 2026 | **AIoT Smart Room System** | MQTT real-time monitoring และ energy automation, system design + documentation |
+| 2026 | **Smart Classroom Attendance** | Face recognition + behavior analysis, RTSP streaming, backend APIs, real-time dashboard |
+| 2025 | **IoT Web Service** | Raspberry Pi + MQTT + PHP + MySQL สำหรับส่งข้อมูลและ monitor แบบ real-time |
+| 2025 | **EGMS** (Equipment & Grouping Mgmt) | Full-stack PHP/MySQL, ทำ UAT และ regression testing |
+| 2024 | **IoT Smart Farm** | ระบบรดน้ำอัตโนมัติ ด้วย custom PCB + ESP32 และ soil sensors |
 
----
+<br/>
+
+## 🧠 Work Philosophy
+
+```mermaid
+flowchart LR
+    A["🧱 วางโครง"] --> B["▶️ ทำให้รันได้จริง"] --> C["✨ ปรับให้ดีขึ้นทีละส่วน"]
+    style A fill:#0D1117,stroke:#1F6FEB,color:#fff
+    style B fill:#0D1117,stroke:#3FB950,color:#fff
+    style C fill:#0D1117,stroke:#F0883E,color:#fff
+```
+
+เน้น **Integration** · **Practicality** · **Stability** · **Problem Solving**
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poundkung11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=3FB950&title_color=3FB950"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poundkung11&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=poundkung11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poundkung11&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 
 </div>
 
-<div align="center">
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=poundkung11&theme=github-dark-blue&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| 🔗 Project | 📝 Description | 🛠 Stack |
-|-----------|---------------|---------|
-| [**sabaidimai-fixed**](https://github.com/poundkung11/sabaidimai-fixed) | Web app with modern TypeScript architecture | TypeScript |
-| [**SmartVision-Classroom**](https://github.com/poundkung11/SmartVision-Classroom) | Smart classroom system using computer vision | Python, OpenCV |
-| [**CFRS**](https://github.com/poundkung11/CFRS) | Classroom Facial Recognition Service | Python, ML |
-
----
-🎓 โปรเจกต์มหาวิทยาลัย / วิศวกรรม (Engineering & Academic)
-🏎️ รถตามเส้น (Line Tracking Robot)
-🏥 แอปโรงพยาบาลที่มี AI เป็นผู้ช่วย
-⚡ Smart Plug & PCB Design
-🏫 Web Clone MFU
-🧠 แนวทางการทำงาน (Work Philosophy)
-ผมชอบพัฒนาระบบแบบ ค่อยๆ วางโครง > สร้างของให้รันได้จริง > แล้วค่อยปรับให้ดีขึ้นทีละส่วน ให้ความสำคัญกับการเชื่อมต่อระบบ (Integration), การนำไปใช้งานจริง (Practicality), ความเสถียร (Stability) และการแก้ปัญหาเฉพาะหน้า (Problem Solving)
-
-🚀 เป้าหมาย (Goals)
-กำลังพัฒนาตัวเองไปสู่การเป็น Software Engineer / Full-Stack Developer / Embedded & IoT Developer พร้อมเปิดรับเครื่องมือใหม่ๆ และมองหาโอกาสทำงานที่ได้ใช้ทั้ง "การคิดเชิงระบบ" และ "การลงมือทำจริง"
-
-## 📬 ช่องทางการติดต่อ
+## 📬 Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-poundkung6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poundkung6@gmail.com)
+[![Email](https://img.shields.io/badge/Email-latthaphon.sat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latthaphon.sat@gmail.com)
 [![LINE](https://img.shields.io/badge/LINE-poundkung11-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/poundkung11)
-[![GitHub](https://img.shields.io/badge/GitHub-poundkung11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poundkung11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-latthaphon--sattha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latthaphon-sattha-38290a2b1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0883E?style=for-the-badge&logo=githubpages&logoColor=white)](https://poundkung11.github.io/)
 
-</div>
-
----
-
-## 🌱 Currently
-
-- 🔭 Working on smart classroom & vision-based projects
-- 📚 Deepening skills in **TypeScript** and **Computer Vision**
-- 🤝 Open to collaborating on interesting projects
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-[![Profile Views](https://komarev.com/ghpvc/?username=poundkung11&color=3FB950&style=flat-square&label=Profile+Views)](https://github.com/poundkung11)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
